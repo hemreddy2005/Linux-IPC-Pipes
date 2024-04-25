@@ -109,11 +109,14 @@ exit(EXIT_SUCCESS);
 }
 ```
 
+
+
+## OUTPUT
+
 ![Screenshot 2024-04-06 082932](https://github.com/gururaghav2925/Linux-IPC-Pipes/assets/151489500/686a82e2-38fb-41dd-ac55-0a6e628bca05)
 
 
 
-## OUTPUT
 
 
 # RESULT:
